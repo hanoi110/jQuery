@@ -1,0 +1,14 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "juery\u001b[D\u001b[D\u001b[D\u001b[D\t\u001b[Que\u001b[C\u001b[C\u001b[ry use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "hanoi",
+  "license": "ISC"
+}
